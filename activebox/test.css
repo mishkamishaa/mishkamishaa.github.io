@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.box{
+    width: 50%;
+    border: 7px solid black;
+    background-color: mediumvioletred;
+    display: inline-block;
+    margin-left: -4px;
+}
